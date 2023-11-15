@@ -1,1 +1,1 @@
-# PRO-C171-Boilerplate
+# Toy app
